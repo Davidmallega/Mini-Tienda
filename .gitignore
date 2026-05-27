@@ -1,6 +1,8 @@
 # Notas de trabajo locales — no se suben a GitHub
 DEPLOY-GOOGLE-CLOUD.md
 CONEXION-CLOUD.md
+diagramas/
+*.skill
 
 # Dependencias
 node_modules/
