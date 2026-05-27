@@ -6,6 +6,7 @@ diagramas/
 
 # Dependencias
 node_modules/
+package-lock.json
 
 # Variables de entorno
 .env
