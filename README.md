@@ -2,8 +2,6 @@
 
 Aplicación fullstack desplegada en producción. Frontend React que consume una API REST serverless en Google Cloud Run, con arquitectura en capas, doble validación y sistema de diseño propio.
 
-**Demo en vivo:** https://mini-tienda-api-118424141332.us-central1.run.app/api/productos
-
 ---
 
 ## Vista previa
